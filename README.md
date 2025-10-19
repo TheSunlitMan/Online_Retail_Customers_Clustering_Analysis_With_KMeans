@@ -27,5 +27,4 @@ The dataset contains all the transactions occurring for a UK-based online retail
 ## How to Run
 1. Clone the repo.
 2. Install requirements: `pip install -r requirements.txt`.
-3. Place the `online_retail_II.xlsx` file in the `data/` directory.
-4. Open and run the Jupyter notebook `notebooks/01_online_retail_eda_clustering.ipynb`.
+3. Open and run the Jupyter notebook `online_retail_clustering.ipynb`.
